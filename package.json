@@ -1,0 +1,23 @@
+{
+  "name": "slothbear_cube",
+  "version": "1.0.0",
+  "description": "deconstructing this little bit of reddit magic: https://codepen.io/Nicnl/pen/ajxxyx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharding2/slothbear_cube.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharding2/slothbear_cube/issues"
+  },
+  "homepage": "https://github.com/bharding2/slothbear_cube#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
